@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.gys13200.commonenhancer.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gys13200.commonenhancer.MyBundle
 
 class MyApplicationService {
 
